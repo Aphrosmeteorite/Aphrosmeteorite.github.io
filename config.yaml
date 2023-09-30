@@ -1,6 +1,6 @@
-baseURL: https://example.com
+baseURL: https://Aphrosmeteorite.github.io
 languageCode: en-us
-title: Hugo
+title: Lap的小站
 theme: mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
@@ -36,7 +36,7 @@ markup:
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
-  github: your-github-link
+  github: https://github.com/Aphrosmeteorite
   twitter: your-github-link
   stackoverflow: your-github-link
   # facebook: your-facebook-link
