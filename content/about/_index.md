@@ -1,26 +1,28 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "About Me"
+description = "这是一个关于我的简单介绍"
+date = "2023-10-01"
+aliases = ["about-me", "contact"]
+author = "Laplace"
 enableComments = false
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+<h2 align="center"><font face="Times New Roman">About me</font></h2>
 
-Hugo makes use of a variety of open source projects including:
+<blockquote align="center">
+我是正在一名学习计算机专业的学生<br>
+目前对<font face="Times New Roman">AiGC</font>有一定兴趣<br>
+希望能遇到志同道合的朋友<br>
+</blockquote>
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+---
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+<p align="center"><font face="站酷文艺体">
+一个<strong>理想主义者</strong>，一个<strong>浪漫主义者</strong>。<br>
+愿<strong>生活</strong>充满<strong>诗意</strong>，愿<strong>远方</strong>永远<strong>触手可及</strong>。<br>
+感谢<strong>你</strong>的关注，我素未谋面的<strong>朋友</strong>。<br>
+</font>
+</p>
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+---
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
