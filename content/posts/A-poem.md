@@ -3,6 +3,7 @@ author = "Laplace"
 title = "一首中学时的诗"
 date = "2023-10-01"
 description = "A poem"
+math = true
 tags = [
     "life",
 ]
