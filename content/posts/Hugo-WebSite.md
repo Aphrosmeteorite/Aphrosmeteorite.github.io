@@ -34,14 +34,14 @@ aliases = ["migrate-from-jekyl"]
 
 3. 然后一路 next ，选择你的安装路径即可。
 
-4. 安装完毕之后，随便找到一个文件夹然后鼠标右键显示更多选项，有Git Bash和Git GUI即可<br>![Gitinstall](/images/Postimages/Hugo-WebSite-3.png)
+4. 安装完毕之后，随便找到一个文件夹然后鼠标右键显示更多选项，有Git cpp和Git GUI即可<br>![Gitinstall](/images/Postimages/Hugo-WebSite-3.png)
 
 5. 关于如何使用Git，请参阅其他Git教程。
 
 ### Hugo安装
 
 1. 首先我们使用到choco去安装hugo，先安装hugo，先以管理员权限打开powershell
-```c++
+```cpp
 powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))"
 # 设置环境变量
 SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
