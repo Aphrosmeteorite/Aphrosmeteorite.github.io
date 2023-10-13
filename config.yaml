@@ -76,13 +76,13 @@ params:
   # Extra links in navigation
   links:
     # e.g.
-    # - name: Project
-      # path: /project
+    # - name: projects
+      # path: https://example.com
 
   # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
   customCSS:
     ## e.g.
-    # - css/custom.css # local css in `static/css/custom.css`
+    # - static/css/style.css # css/custom.css # local css in `static/css/custom.css`
     # - https://example.com/custom.css # remote css
   customJS:
     ## e.g.

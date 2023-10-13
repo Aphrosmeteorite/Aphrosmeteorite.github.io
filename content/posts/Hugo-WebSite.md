@@ -34,7 +34,7 @@ aliases = ["migrate-from-jekyl"]
 
 3. 然后一路 next ，选择你的安装路径即可。
 
-4. 安装完毕之后，随便找到一个文件夹然后鼠标右键显示更多选项，有Git cpp和Git GUI即可<br>![Gitinstall](/images/Postimages/Hugo-WebSite-3.png)
+4. 安装完毕之后，随便找到一个文件夹然后鼠标右键显示更多选项，有Git Bash和Git GUI即可<br>![Gitinstall](/images/Postimages/Hugo-WebSite-3.png)
 
 5. 关于如何使用Git，请参阅其他Git教程。
 
@@ -87,7 +87,7 @@ $ cd MyNewBlog
 $ git init
 ```
 
-4. 下一步安装主题，在[themes.gohugo.io](https://themes.gohugo.io/)<br>找到一个对应的主题安装即可，这里给出一般的安装方法(一般而言，每个主题都在 Github 有说明文档，会说明安装方法)
+4. 下一步安装主题，在[themes.gohugo.io](https://themes.gohugo.io/)找到一个对应的主题安装即可，这里给出一般的安装方法(一般而言，每个主题都在 Github 有说明文档，会说明安装方法)
 
 ```cpp
 $ git submodule add <https> themes/<themename>
