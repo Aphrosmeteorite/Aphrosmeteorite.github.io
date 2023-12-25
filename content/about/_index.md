@@ -11,7 +11,6 @@ enableComments = false
 
 <blockquote align="center">
 我是正在一名学习计算机专业的学生<br>
-目前对<font face="Times New Roman">AiGC</font>有一定兴趣<br>
 希望能遇到志同道合的朋友<br>
 </blockquote>
 
